@@ -82,19 +82,19 @@ export default function LandingPage() {
           id: 1,
           title: "White-Glove Experience",
           description: "Clean job sites and constant communication mean your project is stress-free from start to finish.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/beautiful-home-exterior-with-a-new-roof--1774576762876-fd8a176e.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/beautiful-home-exterior-with-a-new-roof--1774576762876-fd8a176e.png?_wi=1",
         },
         {
           id: 2,
           title: "Transparency First",
           description: "No upselling. No confusion. Just honest answers and clear explanations about your roof's condition.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/pristine-roof-close-up-showing-quality-s-1774576763078-638a9d09.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/pristine-roof-close-up-showing-quality-s-1774576763078-638a9d09.png?_wi=1",
         },
         {
           id: 3,
           title: "Elite Craftsmanship",
           description: "We pair highly trained installation crews with top-tier materials to ensure your roof lasts for decades.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/modern-suburban-house-with-manicured-law-1774576762818-0544d3b0.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/modern-suburban-house-with-manicured-law-1774576762818-0544d3b0.png?_wi=1",
         },
         {
           id: 4,
@@ -122,21 +122,21 @@ export default function LandingPage() {
           name: "Roof Replacement",
           price: "Starting at $8,000",
           variant: "Premium",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/beautiful-home-exterior-with-a-new-roof--1774576762876-fd8a176e.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/beautiful-home-exterior-with-a-new-roof--1774576762876-fd8a176e.png?_wi=2",
         },
         {
           id: "s2",
           name: "Roof Repair",
           price: "Custom Quote",
           variant: "Fast Response",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/pristine-roof-close-up-showing-quality-s-1774576763078-638a9d09.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/pristine-roof-close-up-showing-quality-s-1774576763078-638a9d09.png?_wi=2",
         },
         {
           id: "s3",
           name: "Insurance Claims",
           price: "Advocacy",
           variant: "Expert Support",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/modern-suburban-house-with-manicured-law-1774576762818-0544d3b0.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BVaX4CYLMs8H9Nfrlcci9eOFGz/modern-suburban-house-with-manicured-law-1774576762818-0544d3b0.png?_wi=2",
         },
       ]}
       title="Premium Roofing Services"
